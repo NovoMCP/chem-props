@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+*.log
+.DS_Store
+.idea/
+.vscode/
+main_old.py
+shared/

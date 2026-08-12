@@ -1,0 +1,21 @@
+NovoMCP chem-props
+Copyright 2026 Quant NexusAI Inc. (NovoMCP)
+
+The code in this repository is licensed under the Apache License 2.0 (see LICENSE).
+
+Molecular properties are computed in-process with RDKit (BSD-3-Clause).
+
+--------------------------------------------------------------------------------
+QED v2 desirability coefficients (qed_v2_coefficients.json) — CC-BY-SA-3.0
+--------------------------------------------------------------------------------
+The QED v2 desirability-function coefficients are refit on the ChEMBL 35 set of
+approved oral small-molecule drugs, replacing the original Bickerton 2012
+coefficients. Because they are derived from ChEMBL data, they are distributed
+under CC-BY-SA 3.0 (ShareAlike, attribution required), with attribution to:
+
+  ChEMBL — CC-BY-SA 3.0. EMBL-EBI, https://www.ebi.ac.uk/chembl/
+
+The QED method itself (Asymmetric Double Sigmoidal desirability functions) is from:
+
+  Bickerton, G.R., Paolini, G.V., Besnard, J., Muresan, S., Hopkins, A.L.
+  "Quantifying the chemical beauty of drugs." Nat. Chem. 4, 90-98 (2012).
